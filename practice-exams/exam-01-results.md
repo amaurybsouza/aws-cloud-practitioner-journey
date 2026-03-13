@@ -1,4 +1,4 @@
-## EC2 Pricing Options Notes
+### EC2 Pricing Options Notes
 
 ### On-Demand
 - Pay per use
@@ -20,3 +20,13 @@
 - Physical isolation
 - Compliance / licensing
 - Most expensive
+
+---
+
+### respnsability model
+
+![alt text](image.png)
+
+empresa this is the correct.
+
+### 
