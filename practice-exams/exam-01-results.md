@@ -29,4 +29,11 @@
 
 empresa this is the correct.
 
+### machine learning e ia
+
+- amazon athena - serviço de consulta sql, serverless
+- amazon kendra - serviço de busca dentro do s3, sharepoint, busca dentr de doucmntos, palavras chaves.
+- amazon quicksight - pega os dados dentro do s3 e cia painel interativo, visualmente agradavel, igual powerbi
+- amazon redshift - serviço dataharehouse, gerenciado, pentabytes.
+
 ### 
